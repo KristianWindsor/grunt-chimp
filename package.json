@@ -37,6 +37,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "chimp": "<= 1.0.0"
+    "chimp": "0.51.1"
   }
 }
